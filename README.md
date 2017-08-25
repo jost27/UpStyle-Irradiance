@@ -1,6 +1,6 @@
 # UpStyle-Irradiance
 
-The Arduino IDE extension provided by espressif seems to work at first pass (thanks jost27):
+The Arduino IDE extension provided by espressif seems to work at first pass (thanks @jost27):
 https://github.com/espressif/arduino-esp32
 it also seems like espressif has implemented rudimentary BT support in the arduino port
 
